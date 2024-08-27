@@ -1,3 +1,5 @@
+![2024하계산림과학회_G2SFCA 방법론 활용 도심 생활권 도시숲 이용 접근성 정량화 방법 연구_지상훈이정희서경원](https://github.com/user-attachments/assets/08833770-e101-4960-bfc2-526e1023691f)
+
 **2024 한국산림과학회 학술연구발표회(2024. 8. 26-28. 제주)**
 
 **G2SFCA 방법론 활용 도심 생활권 도시숲 이용 접근성 정량화 방법 연구(Quantifying Urban Green Space Accessibility in Seoul: Applying the Gaussian 2-Step Floating Catchment Area(G2SFCA))**
